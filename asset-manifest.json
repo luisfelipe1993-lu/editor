@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/editor-de-fotos/static/css/main.58ee9103.css",
+    "main.js": "/editor-de-fotos/static/js/main.9e247820.js",
+    "static/js/787.fcb615d0.chunk.js": "/editor-de-fotos/static/js/787.fcb615d0.chunk.js",
+    "index.html": "/editor-de-fotos/index.html",
+    "main.58ee9103.css.map": "/editor-de-fotos/static/css/main.58ee9103.css.map",
+    "main.9e247820.js.map": "/editor-de-fotos/static/js/main.9e247820.js.map",
+    "787.fcb615d0.chunk.js.map": "/editor-de-fotos/static/js/787.fcb615d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58ee9103.css",
+    "static/js/main.9e247820.js"
+  ]
+}
